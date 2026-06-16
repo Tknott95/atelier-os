@@ -1,0 +1,10 @@
+[package]
+name = "atelier-os"
+version = "0.1.0"
+edition = "2021"
+description = "Core Rust crate for the atelier-os project."
+authors = ["knottdynamics <opensource@knottdynamics.dev>"]
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
